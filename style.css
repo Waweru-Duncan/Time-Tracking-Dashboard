@@ -58,6 +58,8 @@ body{
     background-color: hsl(235, 46%, 20%);
     color: white;
     padding: 20%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
 h2{
     font-weight: 300;
