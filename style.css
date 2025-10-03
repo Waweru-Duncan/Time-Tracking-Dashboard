@@ -28,6 +28,7 @@ body{
     width: 10px;
     height: 3px;
     margin: 25px;
+    
 }
 .time-group{
     margin: 10px;
@@ -50,10 +51,13 @@ body{
 }
 .prof-img img{
     width: 50px;
+    border: 3px solid white;
+    border-radius: 50px;
 }
 .prof-bottom{
     background-color: hsl(235, 46%, 20%);
     color: white;
+    padding: 20%;
 }
 h2{
     font-weight: 300;
